@@ -1,9 +1,9 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
 COMPANY:CODTECH IT SOLUTIONS
 
-NAME:G.LAKSHMI NARAYANA REDDY
+NAME:A.Ganesh
 
-INTERN ID:CT04DG508
+INTERN ID:CT04DH2890
 
 DOMAIN:PYTHON PROGRAMMING
 
@@ -22,11 +22,13 @@ Advantages: Demonstrates the process of training and evaluating a classification
 Libraries: Necessary libraries are imported, including pandas, numpy, and matplotlib for data handling and visualization, as well as scikit-learn for machine learning tasks. Dataset: The Iris dataset is loaded using scikit-learn, and it is split into features (X) and target labels (y). Data Preprocessing: The dataset is split into training and testing sets, followed by feature scaling using StandardScaler to standardize the features. Model: A RandomForestClassifier is initialized and trained on the training data. Evaluation: The model’s accuracy, confusion matrix, and classification report are computed to evaluate its performance. Visualization: The confusion matrix and feature importance are visualized for better understanding of the model's predictions and the importance of each feature.
 
 Output: 
+![Image](https://github.com/user-attachments/assets/50741bf0-10bc-46da-b636-b33647c56629)
 
+![Image](https://github.com/user-attachments/assets/8c68d6e7-c3ca-417c-a461-63165a455a64)
 
+![Image](https://github.com/user-attachments/assets/f6882e14-fb64-4629-8a4b-1944b33af823)
 
-
-
+![Image](https://github.com/user-attachments/assets/b08f51a1-bd5f-4911-b526-a18f49ff33aa)
 
 
 Contact
